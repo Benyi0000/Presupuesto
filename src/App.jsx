@@ -45,7 +45,7 @@ function App() {
     <div className="min-h-screen bg-gray-100 py-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mb-8">
-          <h1 className="text-3xl font-bold text-gray-900">Generador de Facturas</h1>
+          <h1 className="text-3xl font-bold text-gray-900">Presupuestario J&M</h1>
         </div>
 
         <div className="bg-white rounded-lg shadow p-6 mb-8">
